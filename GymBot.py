@@ -11,7 +11,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 
 ########################################## INTERFACE ##############################################
 
-print("   \033[1mSeja Bem vindo(a) ao GymBot, seu robô de auxílio fitness!!!\033[0m\n\n")
+print("   \033[1m=====Seja Bem vindo(a) ao GymBot, seu robô de auxílio fitness=====\033[0m\n\n")
 print ("\033[1mInsira suas informações:\033[0m")
 
 nome= input("Insira seu nome\n=>")
