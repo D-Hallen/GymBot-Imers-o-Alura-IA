@@ -3,7 +3,7 @@
    Link para ter acesso ao Gemini API KEY: [Clique aqui](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).<br>
 -> Entre no arquivo key.py e substitua o valor por sua chave API do Google AI Studio. <br>
 -> Selecione a pasta do projeto no seu editor de códigos/terminal. <br>
--> Digite no terminal python Gymbot.py <br>
+-> Digite no terminal "python Gymbot.py" <br>
 -> Agora você já está com seu Robô IA para te auxiliar na sua vida fitness!! :D<br>
 # GymBot
 -> O Gymbot vem para te auxiliar de diversar formas a ter uma vida mais saudável, podendo criar dietas, treinos, tirar dúvidas e até te ensinar ótimas receitas fit <br>
