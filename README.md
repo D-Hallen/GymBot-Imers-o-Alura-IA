@@ -1,6 +1,7 @@
 # Configurações para o programa:
 -> Certifique-se de ter uma key da API Gemini <br>
-   Link para ter acesso ao Gemini API KEY: [Clique aqui](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).<br>
+>Link para ter acesso ao Gemini API KEY: [Clique aqui](https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).<br>
+
 -> Entre no arquivo key.py e substitua o valor por sua chave API do Google AI Studio. <br>
 -> Selecione a pasta do projeto no seu editor de códigos/terminal. <br>
 -> Digite no terminal "python Gymbot.py", ou abra ele em seu editor de código de preferência! <br>
