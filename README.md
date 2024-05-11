@@ -13,5 +13,5 @@
 # 🔎 Sobre o projeto:
 -> GymBot foi desenvolvido utilizando a inteligência artificial Gemini do Google para poder auxiliar da melhor forma àqueles que buscam uma estilo de vida mais saudável, ele foi primeirmente construído como um projeto para a Imersão de 
 Inteligência Artificial da Alura juntamente com o Google, mas ainda buscarei melhorar ele cada vez mais para se tornar um programa cada vez melhor!
-# ⭐🚀 Vote no nosso projeto: [Cliqueaqui](https://discord.com/channels/1228404913705451612/1228406162618060913/1238913618423320738). <br>
+# ⭐🚀 Vote no nosso projeto: [Clique aqui](https://discord.com/channels/1228404913705451612/1228406162618060913/1238913618423320738). <br>
 
